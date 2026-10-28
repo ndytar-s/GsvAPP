@@ -1,4 +1,4 @@
-# GesAPP
+# GesAPP : Telecharger depuis Release
 
 **Gestion de stock et de vente**, conçue à l'origine pour les produits pharmaceutiques : les données restent en local, sur votre machine.
 
