@@ -146,4 +146,5 @@ Chaque notification contient un lien vers le détail :
 
 ## Licence
 
-Version libre. Pour l'impression des tickets, le logo et les options avancées, contactez l'auteur.
+Version libre. Pour l'impression des tickets, le logo et les options avancées, contactez l'auteur: ndytar.salman@gmail.com.
+
