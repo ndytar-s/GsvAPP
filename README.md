@@ -15,11 +15,11 @@ GesAPP s'installe en quelques clics, démarre comme un service Windows et s'util
 
 ## Installation
 
-1. Téléchargez l'installateur de GesAPP.
-2. Lancez-le : l'application, XAMPP et la base MySQL sont installés en un clic.
+1. Téléchargez l'installateur de GesAPP avec le package zip.
+2. Suivez le readme.txt qui se trouve dans zip.
 3. L'installateur demande un mot de passe de setup : `nopassword`.
 4. Pendant l'installation, vous définissez vous-même le **nom d'utilisateur** et le **mot de passe** de la base MySQL. Gardez-les secrets : ils sont demandés à chaque démarrage.
-5. GesAPP est enregistré automatiquement comme **service Windows**.
+5. GesAPP est enregistré automatiquement comme **service Windows** grâce config.bat.
 
 ## Démarrage
 
